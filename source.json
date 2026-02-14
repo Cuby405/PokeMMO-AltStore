@@ -1,0 +1,19 @@
+{
+  "name": "Cuby405 Source",
+  "identifier": "com.cuby405.pokemmo",
+  "apps": [
+    {
+      "name": "PokeMMO",
+      "bundleIdentifier": "com.pokemmo.client",
+      "developerName": "PokeMMO",
+      "subtitle": "MMO de Pokémon",
+      "localizedDescription": "Cliente oficial de PokeMMO para iOS.",
+      "iconURL": "https://cuby405.github.io/PokeMMO-AltStore/icon.png",
+      "downloadURL": "https://github.com/Cuby405/PokeMMO-AltStore/releases/download/v1.0/PokeMMO.ipa",
+      "version": "1.0",
+      "versionDate": "2026-02-14T00:00:00Z",
+      "versionDescription": "Versión inicial",
+      "size": 135387770
+    }
+  ]
+}
