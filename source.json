@@ -5,7 +5,6 @@
     {
       "name": "PokeMMO",
       "bundleIdentifier": "com.pokemmo.client",
-      "marketplaceID": "com.cuby405.pokemmo",
       "developerName": "PokeMMO",
       "subtitle": "MMO de Pokémon",
       "localizedDescription": "Cliente oficial de PokeMMO para iOS.",
